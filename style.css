@@ -1,0 +1,23 @@
+#Slider {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    height: 40em;
+    font: 19px sans-serif;
+    overflow: hidden;
+}
+
+#Control {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+#Control a {
+    color: white;
+    background-color: #346ce4b0;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 2em;
+    border-radius: 5px;
+}
